@@ -1,0 +1,28 @@
+name: RonnieNeal
+favicon: null
+layout_spectrum: 0.22303340560756624
+typography_spectrum: 0.29538212181068957
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7562493025325239
+  lightness: 0.10369365429505706
+  saturation: 0.6210595259908587
+  rhythmicContrast: 0.5234898978378624
+purpose: []
